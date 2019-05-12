@@ -1,0 +1,43 @@
+[2018-11-29 11:26:14] INFO  WEBrick 1.3.1
+[2018-11-29 11:26:14] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2018-11-29 11:26:14] INFO  WEBrick::HTTPServer#start: pid=13364 port=7767
+[2018-11-30 10:21:29] INFO  going to shutdown ...
+[2018-11-30 10:21:30] INFO  WEBrick::HTTPServer#start done.
+[2018-12-02 22:40:01] INFO  WEBrick 1.3.1
+[2018-12-02 22:40:01] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2018-12-02 22:40:01] INFO  WEBrick::HTTPServer#start: pid=3946 port=7767
+[2018-12-02 22:44:35] INFO  going to shutdown ...
+[2018-12-02 22:44:35] INFO  WEBrick::HTTPServer#start done.
+[2018-12-03 15:00:31] INFO  WEBrick 1.3.1
+[2018-12-03 15:00:31] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2018-12-03 15:00:31] INFO  WEBrick::HTTPServer#start: pid=3962 port=7767
+[2018-12-03 23:05:14] INFO  going to shutdown ...
+[2018-12-03 23:05:14] INFO  WEBrick::HTTPServer#start done.
+[2018-12-10 13:34:33] INFO  WEBrick 1.3.1
+[2018-12-10 13:34:33] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2018-12-10 13:34:33] INFO  WEBrick::HTTPServer#start: pid=3810 port=7767
+[2018-12-11 10:30:15] INFO  going to shutdown ...
+[2018-12-11 10:30:15] INFO  WEBrick::HTTPServer#start done.
+[2019-03-29 20:44:36] INFO  WEBrick 1.3.1
+[2019-03-29 20:44:36] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2019-03-29 20:44:36] INFO  WEBrick::HTTPServer#start: pid=3812 port=7767
+[2019-03-29 21:00:41] INFO  going to shutdown ...
+[2019-03-29 21:00:41] INFO  WEBrick::HTTPServer#start done.
+[2019-03-31 14:57:20] INFO  WEBrick 1.3.1
+[2019-03-31 14:57:20] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2019-03-31 14:57:20] INFO  WEBrick::HTTPServer#start: pid=3813 port=7767
+[2019-03-31 15:24:22] INFO  going to shutdown ...
+[2019-03-31 15:24:22] INFO  WEBrick::HTTPServer#start done.
+[2019-03-31 18:55:57] INFO  WEBrick 1.3.1
+[2019-03-31 18:55:57] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2019-03-31 18:55:57] INFO  WEBrick::HTTPServer#start: pid=3808 port=7767
+[2019-04-02 13:01:12] INFO  going to shutdown ...
+[2019-04-02 13:01:12] INFO  WEBrick::HTTPServer#start done.
+[2019-04-02 19:16:40] INFO  WEBrick 1.3.1
+[2019-04-02 19:16:40] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2019-04-02 19:16:40] INFO  WEBrick::HTTPServer#start: pid=3773 port=7767
+[2019-04-02 19:27:12] INFO  going to shutdown ...
+[2019-04-02 19:27:13] INFO  WEBrick::HTTPServer#start done.
+[2019-04-22 19:51:55] INFO  WEBrick 1.3.1
+[2019-04-22 19:51:55] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]
+[2019-04-22 19:51:55] INFO  WEBrick::HTTPServer#start: pid=3766 port=7767
